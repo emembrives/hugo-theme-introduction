@@ -21,5 +21,7 @@
     other = "{{ .Count }} minutes de lecture"
 [blog_shareThis]
     other = "Partagez"
+[blog_shareOnTwitter]
+    other = "Lisez {{ .Title }}"
 [footer_text]
     other = "Thème [**Introduction**](https://github.com/vickylai/hugo-theme-introduction/) pour [Hugo](http://gohugo.io/). Fait avec [<i class=\"fa fa-heart\"></i> et <i class=\"fa fa-coffee\"></i>](https://vickylai.com) par des contributeurs open-source."
